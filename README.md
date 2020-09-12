@@ -12,7 +12,7 @@ The original dataset can be accessed [here](https://www.kaggle.com/niyamatalmass
 
 Motivation
 ----------
-The dataset was originally collected from [Wikipedia](https://www.wikipedia.org/) by the Kaggle user because Kiva uses 
+The dataset was originally collected from [Wikipedia](https://www.wikipedia.org/) by the Kaggle user because [Kiva](https://www.kiva.org/) uses 
 these metrics to make funding decisions. He wanted to know which country needs the most
 help from Kiva.
 
