@@ -16,7 +16,7 @@ The dataset was originally collected from [Wikipedia](https://www.wikipedia.org/
 these metrics to make funding decisions. He wanted to know which country needs the most
 help from Kiva.
 
-I want to use it explore the relationship between unemployment and other
+I want to use the dataset to explore the relationship between unemployment and other
 variables on a global scale. 
 
 
