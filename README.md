@@ -3,7 +3,7 @@ Global Factors that Affect Unemployment
 
 Data Source
 -----------
-I downloaded this dataset from Kaggle. It contains information on the GDP,
+This dataset was downloaded from Kaggle. It contains information on the GDP,
 literacy rate, unemployment rate, gender imbalance and percent of the population that is 
 under the age of employment.
 
